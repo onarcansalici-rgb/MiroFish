@@ -11,13 +11,17 @@
 ## 1. PROJENİN ÖZETİ
 
 - **Ne yapıyoruz:** 3D yazıcı(lar) ile ürün basıp Türkiye'de online satacağız.
-- **Kimim ben (kullanıcı):** 3D yazıcı konusunda sıfır bilgim var. Sen bana öncülük edeceksin,
-  adım adım öğreteceksin ve karar süreçlerini benim için kolaylaştıracaksın.
+- **Kimim ben (kullanıcı):** **Makine mühendisiyim** — CAD uygulamalarını (SolidWorks/Fusion vb.)
+  rahatlıkla kullanabilirim. Ancak saatlerce sıfırdan tasarım yapacak vaktim/niyetim yok; model
+  bulma & üretmede **mümkün olduğunca yapay zekâ desteği** istiyorum (AI tabanlı model üretimi,
+  hazır model bulma+modifiye etme). 3D **baskı/üretim tarafında ise sıfırım** (ilk kez gireceğim).
 - **Hedef:** Para kazandıran, talebi olan modelleri bulmak; üretip stoklu/talebe göre satmak;
   bunu birden fazla "temalı satış hesabı/markası" ile ölçeklemek.
-- **Bütçe:** (Buraya yazılacak — henüz netleşmedi. Belirleyince güncelleyeceğiz.)
-- **Mevcut ekipman:** (Buraya yazılacak — yazıcı modeli, malzeme tipi vs.)
-- **Mevcut durum/aşama:** (Buraya yazılacak — örn. "henüz yazıcı almadık", "araştırma aşaması")
+- **Bütçe:** **100.000 – 120.000 TL** başlangıç yatırımı (yazıcı + malzeme + ilk stok + operasyon).
+- **Mevcut ekipman:** **Yok.** İlk yazıcı alımı yapılacak; modeli birlikte seçeceğiz.
+- **Hedef temalar (ilk fikirler):** F1 / yarış arabaları, futbolcu figürleri, satan figür & oyuncaklar.
+- **Mevcut durum/aşama:** Araştırma aşaması — derin pazar araştırması + ekipman seçimi + farklılaşma
+  stratejisi içeren bir sunu hazırlanıyor.
 
 ---
 
